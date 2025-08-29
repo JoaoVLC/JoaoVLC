@@ -1,8 +1,7 @@
 ### ❄ Olá! Eu sou o João Vitor ❄
 
-- 🎓Formado Técnico em Química
-- 📚Graduando ADS
-- 💻Estudando Web full-Stack
+- 🎓Graduando Sistemas de Informação/PUCPR
+- 💻MySQL | Python | JAVA | JavaScript| HTML | CSS
 - ❤Apaixonado por Tecnologia
 
 ##
