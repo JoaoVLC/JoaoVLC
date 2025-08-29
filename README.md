@@ -1,7 +1,7 @@
 ### ❄ Olá! Eu sou o João Vitor ❄
 
-- 🎓Graduando Sistemas de Informação/PUCPR
 - 💻MySQL | Python | JAVA | JavaScript| HTML | CSS
+- 🎓Graduando Sistemas de Informação/PUCPR
 - ❤Apaixonado por Tecnologia
 
 ##
