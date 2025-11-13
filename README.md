@@ -1,8 +1,7 @@
-### ❄ Olá! Eu sou o João Vitor ❄
+###  Olá! Eu sou o João Vitor 
 
 - 💻MySQL | Python | JAVA | JavaScript| HTML | CSS
 - 🎓Graduando Sistemas de Informação/PUCPR
-- ❤Apaixonado por Tecnologia
 
 ##
 <div align="center">
